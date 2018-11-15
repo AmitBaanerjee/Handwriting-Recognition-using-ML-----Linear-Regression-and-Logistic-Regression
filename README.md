@@ -1,1 +1,1 @@
-# Handwriting-matching using ML algorithms
+# Handwriting-matching using Logistic Regression and Linear Regression
