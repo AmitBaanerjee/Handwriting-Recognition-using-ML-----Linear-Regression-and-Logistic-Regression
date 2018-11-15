@@ -1,1 +1,1 @@
-# Handwriting-matching-for-CEDAR-and-dataset
+# Handwriting-matching using ML algorithms
